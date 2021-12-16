@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lscharck
 - 👀 I’m interested in control systems
-- 🌱 I’m currently learning aerospace engineering
+- 🌱 I’m currently studying aerospace engineering
 - Public PGP fingerprint: 9537 92F7 6D8B A1CB 2353  CA80 A671 F5BE 38D2 9F80
