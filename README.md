@@ -27,11 +27,11 @@ My GitHub mostly consiste of personal projects but I also host two projects rela
 Anyone can reach me through the various channels below:
 - [GitHub](https://github.com/lscharck)
     - This GitHub but, here is the link for convenience
-- [LinkedIn](www.linkedin.com/in/luke-scharck-2380a1236)
-	- My account name is Luke Scharck
 - [Handshake](https://joinhandshake.com)
 	- My account name is Luke Scharck
 - [Instagram](https://www.instagram.com/lscharck22/)
     - My handel is lscharck22
+- [LinkedIn](www.linkedin.com/in/luke-scharck-2380a1236)
+	- My account name is Luke Scharck
 - Public PGP fingerprint: 9537 92F7 6D8B A1CB 2353  CA80 A671 F5BE 38D2 9F80
     - I have not published my public key yet
