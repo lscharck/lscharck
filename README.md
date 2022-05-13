@@ -13,10 +13,14 @@ As of May 2022 I am proud to call myself an Auburn Alumnus.
 ---
 
 ### 📁 Whats on My GitHub
-My GitHub mostly consiste of personal projects but I also host two projects related to my educational endeavors.
-- Independent projects
-- Senior design project
-- Undergraduate research project
+My GitHub mostly consiste of personal projects but I also host two projects related to my educational endeavors. <br  />
+My code can be organized as follows:
+- Independent projects 
+	- self driven personal projects
+- Senior design project 
+	- code related to Project Monarch
+- Undergraduate research project 
+	- Code related to deep learning
 
 ---
 
