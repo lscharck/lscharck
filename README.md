@@ -35,7 +35,7 @@ Anyone can reach me through the various channels below:
 	- My account name is Luke Scharck
 - [Instagram](https://www.instagram.com/lscharck22/)
     - My handle is lscharck22
-- [LinkedIn](www.linkedin.com/in/luke-scharck-2380a1236)
+- [LinkedIn](www.linkedin.com/in/luke-scharck)
 	- My account name is Luke Scharck
 - Public PGP fingerprint: 9537 92F7 6D8B A1CB 2353  CA80 A671 F5BE 38D2 9F80
     - I have not published my public key yet
